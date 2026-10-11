@@ -1,0 +1,6 @@
+Roll No,Name,English,Mathematics,Computer,Total,Average
+1,Aarav,78,85,91,=SUM(C2:E2),=AVERAGE(C2:E2)
+2,Mehak,88,79,95,=SUM(C3:E3),=AVERAGE(C3:E3)
+3,Kabir,67,74,82,=SUM(C4:E4),=AVERAGE(C4:E4)
+4,Simran,91,89,94,=SUM(C5:E5),=AVERAGE(C5:E5)
+5,Arjun,72,81,76,=SUM(C6:E6),=AVERAGE(C6:E6)
