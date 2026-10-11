@@ -1,0 +1,4 @@
+Sum of 8 and 5: 13
+7 is: Odd
+Largest of 12 and 9: 12
+Compare 4 and 4: Both are equal
