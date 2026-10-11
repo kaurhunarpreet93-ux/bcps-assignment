@@ -1,0 +1,4 @@
+Item Code,Item Name,Quantity,Unit Price,Stock Value,Reorder Level,Status
+I001,Notebook,25,45,=C2*D2,10,"=IF(C2<F2;""REORDER"";""OK"")"
+I002,Pen,8,10,=C3*D3,15,"=IF(C3<F3;""REORDER"";""OK"")"
+I003,File Folder,18,30,=C4*D4,8,"=IF(C4<F4;""REORDER"";""OK"")"

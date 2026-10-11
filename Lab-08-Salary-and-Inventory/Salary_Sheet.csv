@@ -1,0 +1,4 @@
+Employee ID,Name,Basic Salary,Allowances,Deductions,Gross Salary,Net Salary
+101,Aarav,25000,3500,1200,=C2+D2,=F2-E2
+102,Mehak,28000,4000,1500,=C3+D3,=F3-E3
+103,Kabir,22000,2500,800,=C4+D4,=F4-E4
